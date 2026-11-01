@@ -17,7 +17,7 @@ Now refresh the page.
 You will need to patch some sites that have bot verification.
 Search for ”general.useragent.override”
 Where is white space, right click, New-String. Don t right click on the ”general.useragent.override”.
-Now type: ”general.useragent.override.mozillazine.org”   (mozillazine.org is a site that has bot verification and it can be patches)
+Now type: ”general.useragent.override.mozillazine.org”   (mozillazine.org is a site that has bot verification and it can be patched)
 Press ok.
 Now put this command: ”Anubis/5.0 (%OS_SLICE%; rv:159.0) Gecko/20100101 Firefox/159.0”
 Press ok.
