@@ -1,3 +1,4 @@
+
 # Retrozilla-Derma-710-s-fork-
 This is a fork of RetroZilla. Ive did not invented RetroZilla.
 This fork contains two extensions: NoScript and Adblock Plus, so sites will work better and the browser will be more secure.
@@ -23,7 +24,8 @@ Press ok.
 This is a bypasser for the Anubis robot verification. Many people hate those robot verifications, since they will eat a lot of your time.
 Refresh the page.
 Now do the same think with general.useragent.override again and again. See this image and put how many commands you want.
-<img width="1919" height="872" alt="Capture" src="https://github.com/user-attachments/assets/3f3df0ed-df6c-4937-9c15-95b076268fa7" />
+<img width="1919" height="855" alt="Capture" src="https://github.com/user-attachments/assets/2327eb8e-1d07-49c2-824d-3d29bf23a8f5" />
+
 
 There is still a command you can put at a general.useragent.override. Which is: ``Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:159.0) Gecko/20100101 Firefox/159.0``. This command will not always work 100%, since Gecko 1.8.1 has a problem with this one.
 
