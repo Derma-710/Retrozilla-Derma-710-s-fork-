@@ -33,7 +33,11 @@ There is still a command you can put at a general.useragent.override. Which is: 
 IMPORTANT TO NOTICE: RetroZilla is based on Gecko 1.8.1. It is not the most secure browser. Those two extensions make the browser more secure, but not the most. Not as safe as modern Mozilla Firefox.
 Since Gecko 1.8.1 is old and it was used in 2006-2010 by SeaMonkey and Firefox, not 100% of sites will work.
 And also the ``accessibility.AOM.enabled`` was not included that time in Gecko 1.8.1.
-More releases soon.
+The Adblock-Plus extension is located at the top of the browser.
+NoScript extension is located at the bottom of the browser.
+<img width="1917" height="1161" alt="Capture 2" src="https://github.com/user-attachments/assets/2488d1a4-82f8-4f8d-abc0-fd50fc27553a" />
+
+
 
 
 
