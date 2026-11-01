@@ -22,7 +22,13 @@ Now put this command: ”Anubis/5.0 (%OS_SLICE%; rv:159.0) Gecko/20100101 Firefo
 Press ok.
 This is a bypasser for the Anubis robot verification. Many people hate those robot verifications, since they will eat a lot of your time.
 Refresh the page.
-Now do the same think with general.useragent.override again and again. See this image. If you dont, I will add an image in the release 1.0
+Now do the same think with general.useragent.override again and again. See this image and put how many commands you want.
 <img width="1919" height="872" alt="Capture" src="https://github.com/user-attachments/assets/3f3df0ed-df6c-4937-9c15-95b076268fa7" />
+
+
+IMPORTANT TO NOTICE: RetroZilla is based on Gecko 1.8.1. It is not the most secure browser. Those two extensions make the browser more secure, but not the most. Not as safe as modern Mozilla Firefox.
+Since Gecko 1.8.1 is old and it was used in 2006-2010 by SeaMonkey and Firefox, not 100% of sites will work.
+And also the ``accessibility.AOM.enabled`` was not included by that time in Gecko 1.8.1.
+
 
 
