@@ -25,10 +25,13 @@ Refresh the page.
 Now do the same think with general.useragent.override again and again. See this image and put how many commands you want.
 <img width="1919" height="872" alt="Capture" src="https://github.com/user-attachments/assets/3f3df0ed-df6c-4937-9c15-95b076268fa7" />
 
+There is still a command you can put at a general.useragent.override. Which is: ``Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:159.0) Gecko/20100101 Firefox/159.0``. This command will not always work 100%, since Gecko 1.8.1 has a problem with this one.
+
 
 IMPORTANT TO NOTICE: RetroZilla is based on Gecko 1.8.1. It is not the most secure browser. Those two extensions make the browser more secure, but not the most. Not as safe as modern Mozilla Firefox.
 Since Gecko 1.8.1 is old and it was used in 2006-2010 by SeaMonkey and Firefox, not 100% of sites will work.
-And also the ``accessibility.AOM.enabled`` was not included by that time in Gecko 1.8.1.
+And also the ``accessibility.AOM.enabled`` was not included that time in Gecko 1.8.1.
+More releases soon.
 
 
 
